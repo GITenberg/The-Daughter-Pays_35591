@@ -1,0 +1,30 @@
+_repo: The-Daughter-Pays_35591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Baillie, Mrs.
+    aliases:
+    - Robins, G. M. (Gertrude M.)
+    - Reynolds, Gertrude M.
+    - Reynolds, Gertrude M. Robins
+    - Robins, Gertrude M.
+    - Reynolds, Mrs. Baillie
+    gutenberg_agent_id: '37776'
+    url: http://www.gutenberg.org/2009/agents/37776
+description: ''
+gutenberg_issued: '2011-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Married people -- Fiction'
+title: The Daughter Pays
+url: http://www.gutenberg.org/ebooks/35591
